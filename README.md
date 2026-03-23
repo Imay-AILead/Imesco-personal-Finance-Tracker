@@ -39,13 +39,6 @@ Notes on data & privacy
 - Use the CSV export feature to back up or move your data.
 - For multi-device sync or cloud backup, consider adding an authenticated backend (e.g., Firebase, Node + Postgres).
 
-How this project highlights professional strengths (for HR reviews)
-- Initiative: Built a complete, user-facing MVP end-to-end.
-- User-centered design: Clear visual hierarchy, accessible typography, meaningful feedback.
-- Problem-solving: Implemented a recommendation engine and clear data model within a simple codebase.
-- Cross-cultural awareness: Built-in savings split for different contribution contexts (Naija & Finland), showing empathy for international use cases.
-- Communication-ready: The app and repo can be used to discuss product decisions, technical choices, and next steps during interviews.
-
 Potential next steps / roadmap
 - Convert to a React app with component-based structure and routing.
 - Add an authenticated backend (Node/Express + Postgres or Firebase) for cross-device sync.
